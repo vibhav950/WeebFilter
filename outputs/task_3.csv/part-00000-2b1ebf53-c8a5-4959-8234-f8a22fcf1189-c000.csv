@@ -1,0 +1,16 @@
+gender,genre,count
+Female,Comedy,4671909
+Female,Action,3482950
+Female,Drama,3102596
+Female,Romance,3058903
+Female,Fantasy,2477082
+Male,Comedy,12438080
+Male,Action,10506368
+Male,Romance,7422895
+Male,Drama,6713172
+Male,Fantasy,6232376
+Non-Binary,Comedy,112258
+Non-Binary,Action,86008
+Non-Binary,Drama,65602
+Non-Binary,Romance,62128
+Non-Binary,School,57705
